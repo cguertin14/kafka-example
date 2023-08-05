@@ -1,6 +1,7 @@
 # kafka-example
 
-Kafka example project with consumer &amp; producer.
+Kafka example project with consumer &amp; producer. 
+Quickstart guide available [here](https://kafka.apache.org/quickstart).
 
 ## Setup
 
